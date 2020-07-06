@@ -14,7 +14,7 @@
           <h3 class="title text-center text-white text-uppercase">
             AQUI PUEDES <strong>COMPRAR</strong><br>
             EN TU TIENDA <br>
-            O SUERMERCADO <br>
+            O SUPERMERCADO <br>
             <strong>FAVORITO</strong>
           </h3>
           <div class="description pull-center text-center mt-0 pt-0">
@@ -130,7 +130,7 @@
        </div>
        <div class="col-8">
          <h6 class="card-category text-muted text-uppercase">Compra</h6>
-         <h3 class="card-title text-dark">Desde la de tu hogar</h3>
+         <h4 class="card-title text-dark">Desde de tu hogar</h4>
        </div>
      </div>
    </div>
@@ -143,7 +143,7 @@
        </div>
        <div class="col-8">
          <h6 class="card-category text-muted text-uppercase">Enviós</h6>
-         <h3 class="card-title text-dark">Garantizados por la empresa</h3>
+         <h4 class="card-title text-dark">Garantizados por la empresa</h4>
        </div>
      </div>
    </div>
@@ -156,7 +156,7 @@
        </div>
        <div class="col-8">
          <h6 class="card-category text-muted text-uppercase">Disponiblidad</h6>
-         <h3 class="card-title text-dark">100% las 24 horas del dia</h3>
+         <h4 class="card-title text-dark">100% las 24 horas del dia</h4>
        </div>
      </div>
    </div>

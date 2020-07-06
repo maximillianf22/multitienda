@@ -1,7 +1,7 @@
 <div id="modal-right" class="modal fade" data-backdrop="true">
     <div class="modal-dialog modal-right w-xl-right">
         <div class="modal-content h-100 no-border-radius">
-            <div class="modal-header" style="min-height: 13vh;max-height: 13vh;">
+            <div class="modal-header" style="min-height: 10vh;max-height: 10vh;">
                 <div class="modal-title text-md">Entregar en: <br>
                     <a href="#" class="text-dark">
                         <strong class="display-4">
@@ -11,7 +11,7 @@
                 </div> 
                 <button data-dismiss="modal" class="btn btn-neutral"><img src="{{ asset('assets/img/brand/close.png')}}" width="40%"></button>
             </div>
-            <div class="modal-body bg-light" style="min-height: 77vh; max-height: 77vh !important; overflow-y: auto !important;">
+            <div class="modal-body bg-light" style="min-height: 75vh; max-height: 15vh !important; overflow-y: auto !important;">
                 <nav aria-label="breadcrumb">
                   <ol class="breadcrumb bg-white">
                     <li class="breadcrumb-item"><a href="#"><strong>Restaurantes</strong></a></li>
@@ -66,15 +66,15 @@
                     </div>
                 </div>
             </div>
-            <div class="modal-footer my-auto bg-white" style="min-height: 10vh; max-height: 10vh;">
+            <div class="modal-footer my-auto bg-white" style="min-height: 15vh; max-height: 15vh;">
                <div class="container">
                    <div class="row mt-3">
-                        <div class="col-6 text-center align-content-center">
+                        <div class="col-4 text-center align-content-center">
                             <button type="button" class="btn btn-neutral w-100 btn-lg btn-block" data-dismiss="modal">Vaciar Carrito</button>
                         </div>
-                        <div class="col-6 text-center align-content-center">
-                            <button type="button" class="btn btn-primary btn-lg w-100 btn-block text-white" data-dismiss="modal">
-                                <strong>Ir a pagar</strong> $ 43.000
+                        <div class="col-8 text-center align-content-center">
+                            <button type="button" class="btn btn-primary btn-lg w-100 btn-block text-white nowrap text-nowrap" data-dismiss="modal">
+                                <h4 class="text-nowrap mb- text-white"><strong>Ir a pagar</strong> $ 43.000</h4>
                             </button>
                         </div>
                     </div>
