@@ -3,7 +3,7 @@
         <div class="modal-content h-100 no-border-radius">
             <div class="modal-header" style="min-height: 13vh;max-height: 13vh;">
                 <div class="modal-title text-md">Entregar en: <br>
-                    <a href="#">
+                    <a href="#" class="text-dark">
                         <strong class="display-4">
                             Carrera 8 #20 <i class="fas fa-caret-down"></i>
                         </strong>
@@ -32,9 +32,9 @@
                     <div class="col-md-3 col-3 px-0 mx-0 my-auto">
                         <td class="td-number">
                             <div class="btn-group align-content-center" style="white-space: nowrap;">
-                              <button class="btn btn-primary btn-sm px-2"> <i class="tim-icons icon-simple-delete text-white"></i> </button>
+                              <button class="btn btn-primary btn-sm px-2"> <i class="fas fa-minus text-white"></i> </button>
                                 <p class="px-2 mt-1 bg-white">1</p>                              
-                              <button class="btn btn-primary btn-sm px-2"> <i class="tim-icons icon-simple-add text-white"></i> </button>
+                              <button class="btn btn-primary btn-sm px-2"> <i class="fas fa-plus text-white"></i> </button>
                             </div>
                         </td>
                     </div>
@@ -55,9 +55,9 @@
                     <div class="col-md-3 col-3 px-0 mx-0 my-auto">
                         <td class="td-number">
                             <div class="btn-group align-content-center" style="white-space: nowrap;">
-                              <button class="btn btn-primary btn-sm px-2"> <i class="tim-icons icon-simple-delete text-white"></i> </button>
+                              <button class="btn btn-primary btn-sm px-2"> <i class="fas fa-minus text-white"></i> </button>
                                 <p class="px-2 mt-1 bg-white">1</p>                              
-                              <button class="btn btn-primary btn-sm px-2"> <i class="tim-icons icon-simple-add text-white"></i> </button>
+                              <button class="btn btn-primary btn-sm px-2"> <i class="fas fa-plus text-white"></i> </button>
                             </div>
                         </td>
                     </div>

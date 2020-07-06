@@ -56,6 +56,7 @@
             <!-- modalLeft -->
                 @include('system.layouts.global.components.modalLeft')
             <!-- modals app -->
+                @include('system.layouts.global.components.modals')
                 @yield('modals')
         </div>
       <div class="loader-section section-left"></div>
