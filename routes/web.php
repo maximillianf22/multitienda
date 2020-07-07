@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/','system.templates.home.index');
+Route::view('/login', 'system.templates.auth.login')->name('login');
+Route::view('/supermercados', 'system.templates.supermarket.list')->name('supermercados');

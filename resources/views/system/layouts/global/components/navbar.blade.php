@@ -8,6 +8,7 @@
         <img src="{{ asset('assets/img/brand/logoc.png')}}" width="82%">
       </a>
     </div>
+    @if(Route::current()->getName() != 'login')
     <div class="collapse navbar-collapse border-right ml-5 mr-5">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
@@ -46,7 +47,10 @@
             </li>
         </ul>
     </div>
-        <button href="#" class="btn btn-primary btn-sm"><strong>Ingresar</strong></button>
+        <a href="{{ route('login')}}" class="btn btn-primary btn-sm"><strong>Ingresar</strong></a>
+        @else
+        <input type="button" value="Regresar" onclick="history.back(-1)"  class="btn btn-primary btn-sm ml-auto">
+    @endif
   </div>
 </nav>
 
