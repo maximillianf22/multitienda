@@ -48,7 +48,7 @@
       </div>
       <div class="col-md-2 col-0"></div>
     </div>
-  </div>
+</div>
 <!-- Section categories-->
 <div class="container mt-4 rounded p-3">
   <h2 class="text-dark display-4 text-left mb-0">Nuestras <strong class="text-secondary">Categorias</strong></h2>

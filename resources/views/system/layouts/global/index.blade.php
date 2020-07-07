@@ -65,7 +65,7 @@
 <!-- Footer -->
     @yield('footer')
 <!-- End Footer -->
-
+    @yield('js')
 <!-- Core Scripts -->
     <script src="{{ asset('assets/js/core/jquery.min.js') }}" type="text/javascript"></script>
     <script src="{{ asset('assets/js/core/popper.min.js') }}" type="text/javascript"></script>
@@ -85,7 +85,6 @@
     <script src="{{ asset('assets/js/plugins/jasny-bootstrap.min.js') }}"></script>
 <!-- BlkSystem JS -->
     <script src="{{ asset('assets/js/blk-design-system.min.js?v=1.0.0') }}" type="text/javascript"></script>
-    @yield('js')
 </body>
 
 
