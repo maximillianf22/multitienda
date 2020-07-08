@@ -1,7 +1,7 @@
 @extends('system.layouts.global.index')
 @section('title', 'Olimpica')
 
-@section('js')
+@section('css')
 <style type="text/css">
 .card-producto{
     max-height: 140px !important;
