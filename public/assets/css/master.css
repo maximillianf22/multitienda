@@ -1,9 +1,9 @@
-div.card-producto{
+.card-producto{
     max-height: 140px !important;
     min-height: 140px !important;
 }
 
-img.producto{
+.producto{
     max-height: 140px !important;
     width: auto !important;
     height: auto !important;
