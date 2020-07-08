@@ -1,39 +1,6 @@
 @extends('system.layouts.global.index')
 @section('title', 'Olimpica')
 
-@section('css')
-<style type="text/css">
-.card-producto{
-    max-height: 140px !important;
-    min-height: 140px !important;
-}
-
-.producto{
-    max-height: 140px !important;
-    width: auto !important;
-    height: auto !important;
-}
-
-.wraps {
-  display: flex;
-  justify-content: space-between;
-}
-
-.mains {
-  width: 75%;
-  height: 150vh;
-}
-
-.sidebars {
-  width: 20%;
-  height: 25vh;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 100px;
-}
-</style>
-@endsection
-
 @section('content')
 <!-- Main content -->
  <div class="">
