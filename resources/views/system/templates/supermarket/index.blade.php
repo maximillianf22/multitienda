@@ -141,7 +141,59 @@
                  <div class="col-2"></div>
               </div>
            </div>
-
+           <div class="container-fluid bg-white">
+            <div class="container">
+              
+             <h3>Lacteos</h3>
+             <div id="filterProducts" class="container-fluid" style="border-top:0px solid #F1F3F4">
+                <div class="row pad-all">
+                   <div class="col-6 col-md-2 col-sm-4 shadow m-2 p-1" style="padding:5px 7px !important" onclick="viewProduct(28)">
+                      <div class="sc-item-store ">
+                         <div class="categorie">
+                            <!-- <b>
+                               </b> -->
+                            <!-- <div class="sticky "></div> -->
+                         </div>
+                         <div class="media card-producto">
+                            <img id="logoTheme" src="https://us.123rf.com/450wm/lavaber/lavaber1711/lavaber171100030/89882951-brillo-verde-sobre-fondo-negro-part%C3%ADculas-ca%C3%ADdas-amplia-horizontal-ilustraci%C3%B3n-vectorial.jpg?ver=6" alt="Producto" class="producto align-self-center img-fluid mx-auto">
+                         </div>
+                         <div class="info-article ">
+                            <div class="name">Alpina Avena Original</div>
+                            <!-- <div class=""></div> -->
+                            <div class="info-price ">
+                               <div class="item-price">
+                                  $ 2,398
+                               </div>
+                            </div>
+                            <span class="badge badge-light">
+                            Sin variaciones
+                            </span>
+                         </div>
+                      </div>
+                   </div>
+                   <div id="product-34" class="col-6 col-md-2 col-sm-4 shadow m-2 p-1" style="padding:5px 7px !important" onclick="viewProduct(34)">
+                      <div class="sc-item-store">
+                         <div class="media card-producto">
+                            <img id="logoTheme" src="https://previews.123rf.com/images/farang/farang1201/farang120100042/11875193-vista-de-un-oc%C3%A9ano-brumoso-de-la-ma%C3%B1ana-tiro-de-larga-exposici%C3%B3n-composici%C3%B3n-panor%C3%A1mica-vertical-.jpg" alt="Producto" class="producto align-self-center img-fluid mx-auto">
+                         </div>
+                         <div class="info-article ">
+                            <div class="name">Campi Mantequilla</div>
+                            <!-- <div class=""></div> -->
+                            <div class="info-price ">
+                               <div class="item-price">
+                                  $ 8,175
+                               </div>
+                            </div>
+                            <span class="badge badge-success">
+                            + 2 variaciones
+                            </span>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+             </div>
+            </div>
+           </div>
         </div>
      </div>
   </div>

@@ -20,7 +20,6 @@
     <!-- End Fonts and icons -->
     <!-- CSS Core Files -->
         <link href="{{ asset('assets/css/blk-design-system-pro.min.css?v=1.0.0')}}" rel="stylesheet" />
-        <link href="{{ asset('assets/css/master.css')}}" rel="stylesheet" />
     <!-- End CSSS Core Files -->
     <!-- Carousel -->
         <!-- Css Carousel -->
