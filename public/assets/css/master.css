@@ -1,3 +1,32 @@
+div.card-producto{
+    max-height: 140px !important;
+    min-height: 140px !important;
+}
+
+img.producto{
+    max-height: 140px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.wraps {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mains {
+  width: 75%;
+  height: 150vh;
+}
+
+.sidebars {
+  width: 20%;
+  height: 25vh;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+}
+
 .btn_whatsapp, btn_whatsapp:active {position: fixed;z-index: 999;bottom: 20px;right: 10px;background-color: #25d366;
     color: #fff;padding: 10px 25px;font-size: 13px;border-radius: 50px;font-weight: bold;}
 .btn_whatsapp a:hover, btn_whatsapp:active {color:#FFF !important }
