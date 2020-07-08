@@ -1,3 +1,7 @@
+@extends('system.layouts.global.index')
+@section('title', 'plantilla')
+
+@section('content')
   <div class="wrapper">
     <div class="page-header">
       <div class="squares square1"></div>
@@ -4336,3 +4340,4 @@
     </div>
     
   </div>
+@endsection
