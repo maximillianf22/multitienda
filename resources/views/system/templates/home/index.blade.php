@@ -207,3 +207,8 @@
   </div>
 </div>
 @endsection
+
+@section('footer')
+  @include('system.layouts.global.components.footer')
+@endsection
+
